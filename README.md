@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Minegame49
+- 👋 Hi, I’m @Minegame499
 - 👀 I’m interested in Hardware
 - 🌱 I’m currently learning Java/JavaScript/HTML/CSS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Luminaria a Minecraft Server
 - 📫 How to reach me : DIscord : Minegame499
 - 😄 Pronouns: He/Il
 - ⚡ Fun fact: I Speak French and English.
