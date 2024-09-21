@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minegame499
 - 👀 I’m interested in Hardware
-- 🌱 I’m currently learning Java/JavaScript/HTML/CSS/
+- 🌱 I’m currently learning Java/JavaScript/HTML/CSS/PHP/SQL/
 - 💞️ I’m looking to collaborate on Luminaria a Minecraft Server
 - 📫 How to reach me : DIscord : Minegame499
 - 😄 Pronouns: He/Il
