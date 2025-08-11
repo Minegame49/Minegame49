@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Syphera a Minecraft Server
 - 📫 How to reach me : Discord : Minegame499
 - 😄 Pronouns: He/Il
-- ⚡ Fun fact: I Speak French, English, Espanol, Russian-Estonian (learning), Japanese (learning),.
+- ⚡ Fun fact: I Speak French, English, Espanol, Italian (learning) , Japanese (learning),.
 
 <!---
 Minegame49/Minegame49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
