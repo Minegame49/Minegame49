@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minegame499
-- 👀 I’m interested in Hardware
+- 👀 I’m interested in Hardware, 
 - 🌱 I’m currently learning Java/JavaScript/HTML/CSS/PHP/SQL/
-- 💞️ I’m looking to collaborate on Syphera a Minecraft Server
+- 💞️ I’m looking to collaborate on Nothing Now ! 
 - 📫 How to reach me : Discord : Minegame499
 - 😄 Pronouns: He/Il
 - ⚡ Fun fact: I Speak French, English, Espanol, Italian (learning) , Japanese (learning),.
