@@ -1,5 +1,3 @@
-💻 Développeur passionné | Minecraft, développement logiciel, auto-hébergement & infrastructures | Fondateur d'InnovaHost
-
 # 👋 Salut, moi c'est Florian !
 
 💻 Passionné d'informatique, de développement et d'administration système, je passe mon temps à créer des projets, expérimenter de nouvelles technologies et construire mes propres infrastructures.
